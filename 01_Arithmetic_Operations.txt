@@ -1,4 +1,4 @@
-1. ARITHMETIC OPERATIONS
+
 
 #include <iostream.h>
 #include <conio.h>
