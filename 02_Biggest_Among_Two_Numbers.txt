@@ -1,4 +1,3 @@
-2. BIGGEST AMONG TWO NUMBERS
 
 #include <iostream.h>
 #include <conio.h>
