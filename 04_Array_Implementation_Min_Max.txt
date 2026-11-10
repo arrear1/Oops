@@ -1,4 +1,4 @@
-4. ARRAY IMPLEMENTATION - FIND MINIMUM AND MAXIMUM
+
 
 #include <iostream.h>
 #include <conio.h>
