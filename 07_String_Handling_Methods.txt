@@ -1,4 +1,4 @@
-7. STRING HANDLING METHODS
+
 
 #include <iostream.h>
 #include <conio.h>
