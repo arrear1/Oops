@@ -1,4 +1,4 @@
-6. ADDITION OF TWO MATRICES
+
 
 #include <iostream.h>
 #include <conio.h>
